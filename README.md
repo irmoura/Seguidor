@@ -1,0 +1,2 @@
+# Seguidor
+* Jogo
